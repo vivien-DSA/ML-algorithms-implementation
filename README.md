@@ -12,11 +12,11 @@ In order to perform ML, we need 4 importants items:
 ## Structure of the repository
 - Data contains the differents dataset
 - Notebook contains the differents ML algorithm implementation notebooks
-
+- Requirements contains all the libraries installed and their version
 
 ## Implementation
 
 1. Linear Regression:
 
 1.1. The dataset:
-We are using for this a clean version of Boston Housing Data taking from
+We are using for this a clean version of Boston Housing Data taken from 
